@@ -1,0 +1,36 @@
+{
+  "schedule": {
+    "monday": {
+      "0900": "Math",
+      "1000": "Java",
+ 0     "1100": "OOP"
+    },
+    "tuesday": {
+      "0900": "TDD",
+      "1100": "Java",
+      "1200": "Python"
+    },
+    "wednesday": {
+      "1500": "TDD",
+      "1700": "PHP"
+    },
+    "thursday": {
+      "1100": "PHP",
+      "1200": "OOP"
+    },
+    "friday": {
+      "0900": "Python",
+      "1000": "Java",
+      "1100": "PHP",
+      "1200": "Q&A Time"
+    }
+  },
+  "colors": {
+    "math": "yellow",
+    "java": "blue",
+    "oop": "green",
+    "tdd": "red",
+    "python": "brown",
+    "default": "orange"
+  }
+}
